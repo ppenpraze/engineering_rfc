@@ -49,7 +49,7 @@ Used for major decisions involving:
 - Multi-team impact  
 - Significant operational changes  
 
-> Use `.github/ISSUE_TEMPLATE/rfc.md`
+> Use `templates/rfc.md`
 
 ### **2. RFC-Lite**
 Used for:
@@ -58,7 +58,7 @@ Used for:
 - Minor tools or library selections  
 - Low-risk, low-impact items  
 
-> Use `.github/ISSUE_TEMPLATE/rfc-lite.md`
+> Use `templates/rfc-lite.md`
 
 ---
 
